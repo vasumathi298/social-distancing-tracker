@@ -1,1 +1,2 @@
 # social-distancing-tracker
+Social distancing is thought to be an adequate precaution (norm) against the spread of the pandemic virus. The risks of virus spread can be minimized by avoiding physical contact among people. An algorithm was designed using opencv to calculate distance between individuals and classify them as high risk, medium risk and low risk using SD-MobileNet model for object detection with CLAHE preprocessing method for better detection.
